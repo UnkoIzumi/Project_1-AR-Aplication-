@@ -1,2 +1,2 @@
 # Project_1-AR-Aplication-
-Learn Hardware Basi With Augmanted Reality
+Learn Hardware Basic With Augmanted Reality
